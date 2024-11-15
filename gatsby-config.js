@@ -1,10 +1,10 @@
-/**
- * @type {import('gatsby').GatsbyConfig}
- */
-module.exports = {
-  siteMetadata: {
-    title: `pagespeed`,
-    siteUrl: `https://www.yourdomain.tld`
-  },
-  plugins: ["gatsby-plugin-sass"]
-};
+// /**
+//  * @type {import('gatsby').GatsbyConfig}
+//  */
+// module.exports = {
+//   siteMetadata: {
+//     title: `pagespeed`,
+//     siteUrl: `https://www.yourdomain.tld`
+//   },
+//   plugins: ["gatsby-plugin-sass"]
+// };
